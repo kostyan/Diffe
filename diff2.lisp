@@ -1,7 +1,7 @@
 ;; the prototype function mydiff, release you can see down
 (defun mydif (l x) ())
 
-;; these functiona differentiation l-expression for x
+;; these functions differentiation l-expression for x
 (defun dif* (l x)
 	;; resultate is: (+ (* a' b) (* a b'))
 	(list 
